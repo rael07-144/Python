@@ -1,6 +1,6 @@
 # atribuição de variaveis
-nome = "Joao"
-idade = 15
+nome = "Israel"
+idade = 16
 altura = 1.80
 
 # exibir mensagem na tela
